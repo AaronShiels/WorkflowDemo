@@ -34,5 +34,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="package.json" />
+    <None Include="tsconfig.json" />
   </ItemGroup>
 </Project>
