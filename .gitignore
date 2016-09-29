@@ -21,6 +21,7 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+[Dd]ist/
 
 # Visual Studio 2015 cache/options directory
 .vs/
@@ -191,6 +192,7 @@ ClientBin/
 *.pfx
 *.publishsettings
 node_modules/
+typings/
 orleans.codegen.cs
 
 # Since there are multiple workflows, uncomment next line to ignore bower_components
